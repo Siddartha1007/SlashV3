@@ -223,12 +223,12 @@ https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/6db1838e-8ef3-4e
 
 ## Team Members
 
-- [Ingmar Fjolla](https://github.com/ingmarfjolla)
-- [Rishab Muzhangathu](https://github.com/R3Rex31)
-- [Rishabh Bhargava](https://github.com/Bullet1403)
-- [Russel Lobo](https://github.com/russel0014)
+- [Sree Tulasi](https://github.com/21Tulasi)
+- [Siddartha Goruganti](https://github.com/Siddartha1007)
+- [Yogitha Seela](https://github.com/Yogitha193)
+- [Deepika Patibandla](https://github.com/Deepika-2306)
 
 ## :email: Support
 
-For any queries and help, please reach out to us at: SEslash0041@gmail.com
+In case of any extended support or quieries please reach us at seproject46@gmail.com
 Let Slash be your shopping sidekick and embark on a savings adventure like never before!
