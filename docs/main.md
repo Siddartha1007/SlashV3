@@ -1,5 +1,6 @@
 # About SlashV3's main.py file
-This file is the main entry point for the application. 
+This file is the main entry point for the FastAPI application. 
+FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
 The application provides an API for web scraping product information from various online retailers like Amazon, Walmart, Target, etc., and storing the scraped data in a PostgreSQL database.
 
 # Location of Code for this Feature
