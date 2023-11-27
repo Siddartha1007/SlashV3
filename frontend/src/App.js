@@ -9,6 +9,7 @@ import {Amplify} from 'aws-amplify';
 import {Authenticator, View, Image, useTheme, Text } from '@aws-amplify/ui-react';
 import awsExports from './aws-exports.js';
 import styled from 'styled-components';
+
 // eslint-disable-next-line import/no-unresolved
 import '@aws-amplify/ui-react/styles.css';
 
