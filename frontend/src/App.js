@@ -3,7 +3,6 @@ import './components/custom.css'
 import Routing from './components/Routing.js';
 import { BrowserRouter } from 'react-router-dom';
 import logo from './slash.png';
-import { Button } from 'react-bootstrap';
 
 
 import {Amplify} from 'aws-amplify';
