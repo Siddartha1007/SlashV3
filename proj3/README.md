@@ -1,7 +1,7 @@
 <p align="center">Welcome to Slash: Your Ultimate Shopping Companion!</p> 
 <p align="center"><img width="500" src="./assets/slash.png"></p> 
 
-![GitHub](https://img.shields.io/github/license/Urvashi74/slash)
+![GitHub](https://img.shields.io/badge/License-MIT-green.svg)
 ![github workflow](https://github.com/SE-Fall2023-Group-41/SlashV2/actions/workflows/python-app.yml/badge.svg)
 [![DOI](https://zenodo.org/badge/431326985.svg)](https://zenodo.org/badge/latestdoi/431326985)
 ![Github](https://img.shields.io/badge/language-python-red.svg)
