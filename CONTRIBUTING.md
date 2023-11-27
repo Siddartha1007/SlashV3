@@ -1,18 +1,25 @@
 ## 📋 Contributing to Slash !
 
-Thank you so much for taking an interest in contributing! We are delighted when people want to contribute to Slash! There are many ways to contribute to this project!
+Thank you so much for taking an interest in contributing! We are delighted when people want to contribute to Slash! There are many ways to contribute to this project! 
+Follow the set of guidelines below to contribute to Slash!
 
-## 🤔 What should I know before I get started?
+## Code of Conduct
 
-1. Check [README.md](https://github.com/NCSU-Group7-SE2021/slash/blob/main/README.md)
-2. Check [requirements.txt](https://github.com/NCSU-Group7-SE2021/slash/blob/main/requirements.txt)
-3. Check [setup.py](https://github.com/NCSU-Group7-SE2021/slash/blob/main/setup.py)
-4. Check [issues](https://github.com/NCSU-Group7-SE2021/slash/issues).
+By participating, you are expected to uphold this code. Please report unacceptable behavior to yseela@ncsu.edu.
 
-Understand the current and future scope.
+Prerequistes required before starting this project
+
+If you like our project and would like to contribue otherwise, please note:
+1. This project is created as part of CSC510 Coursework at NC State for Fall'23.
+2. If you like to contribute, reach out to the maintainers before creating a branch, to confirm if we're still maintaining the repo.
+3. Have good understanding of Java, Python, React.js, Amplify CLI.
 
 ## 🪲 Reporting Bugs
-This section guides you through submitting a bug report for this repository. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports. Before creating bug reports, please perform a cursory search to see if the problem has already been reported. If it has and the issue is still open, add a comment to the existing issue instead of opening a new one. Note: If you find a Closed issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
+This section guides you through submitting a bug report for this repository. 
+Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports. 
+Before creating bug reports, please perform a cursory search to see if the problem has already been reported.
+If it has and the issue is still open, add a comment to the existing issue instead of opening a new one. 
+Note: If you find a Closed issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
 ### How Do I Submit A (Good) Bug Report?
 
@@ -47,8 +54,8 @@ Enhancement suggestions are tracked as GitHub issues. Create an issue on that re
 
 ## 🙇 Pull Requests
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-2. Update the [README.md](https://github.com/NCSU-Group7-SE2021/slash/blob/main/README.md) with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the [README.md](https://github.com/NCSU-Group7-SE2021/slash/blob/main/README.md) to the new version that this Pull Request would represent. The versioning scheme we use is SemVer.
+2. Update the [README.md](https://github.com/Siddartha1007/SlashV3/blob/main/README.md) with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
+3. Increase the version numbers in any examples files and the [README.md](https://github.com/Siddartha1007/SlashV3/blob/main/README.md) to the new version that this Pull Request would represent. The versioning scheme we use is SemVer.
 4. After submitting your PR, the first thing you would want to do will be a self review. Barring special circumstances, maintainers will not review PRs until all checks pass (Travis, AppVeyor, etc).
 5. One or more maintainers will use GitHub's review feature to review your PR.
 6. If the maintainer asks for any changes, edit your changes, push, and ask for another review. Additional tags (such as needs-tests) will be added depending on the review.
@@ -78,20 +85,3 @@ This method allows for easy tracking of different developers’ work and progres
 
 ## ✔️ Attribution
 These Contributing guidelines are adapted from the [Atom's](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) contributing guidelines.
-
-## 💻 Contributors
-
-### Phase 3 Team Members
-- [Rahul Kalita](https://github.com/rahulkalita8)
-- [Vignesh Muthukumar](https://github.com/vickymhs)
-- [Eshita Arza](https://github.com/ArzaEshita)
-- [Luis](https://github.com/lgdeloss)
-- [Isha Gupta](https://github.com/isha-bansal0115)
-- [Kiran Teja](https://github.com/kirantejatummuri)
-
-### Phase 2 Team Members
-* [Anirudh Pande](https://github.com/apande95)
-* [Bradley Erickson](https://github.com/bradley-erickson)
-* [Lalit Bangad](https://github.com/lalit10)
-* [Pratyush Vaidya](https://github.com/Pratyush1184)
-* [Urvashi Kar](https://github.com/Urvashi74)
