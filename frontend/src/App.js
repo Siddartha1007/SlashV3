@@ -14,6 +14,7 @@ import '@aws-amplify/ui-react/styles.css';
 
 import SiteNav from './components/SiteNav.js';
 
+
 Amplify.configure(awsExports);
 
 function App() {
