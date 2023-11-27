@@ -5,13 +5,9 @@ import DataDisplay from "./DataDisplay.js";
 import WishlistPage from "./WishlistPage.js"; 
 
 export const routes = [
+
     {
         path: "/",
-        name: "Home",
-        element: <HomePage />,
-    },
-    {
-        path: "/search",
         name: "Search",
         element: <Search />,
     },
