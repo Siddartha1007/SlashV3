@@ -30,24 +30,24 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3| Everyone of us used Git, Visual Studio Code and Docker|
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3|Everyone of us used Git, Visual Studio Code and Docker|
 |Evidence that the members of the team are working across multiple places in the code base|3|Worked across development of new features and testing them, along with enhancement of few older features 
-|Short release cycles |3|[Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/releases)|
-|Does your website and documentation provide a clear, high-level overview of your software?| Yes | [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/docs)|
-|Does your website and documentation clearly describe the type of user who should use your software?| Yes | [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md)|
-|Do you publish case studies to show how your software has been used by yourself and others?|Yes| [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md)|
+|Short release cycles |3|[Evidence](https://github.com/Siddartha1007/SlashV3/releases)|
+|Does your website and documentation provide a clear, high-level overview of your software?| Yes | [Evidence](https://github.com/Siddartha1007/SlashV3/tree/main/docs)|
+|Does your website and documentation clearly describe the type of user who should use your software?| Yes | [Evidence](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
+|Do you publish case studies to show how your software has been used by yourself and others?|Yes| [Evidence](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |Is the name of your project/software unique?|Yes| |
 |Is your project/software name free from trademark violations?| Yes||
-|Is your software available as a package that can be deployed without building it?| Yes |[Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#installation-guide)|
-|Is your software available for free?|Yes|[Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#installation-guide)|
-|Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|Yes|[Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main)|
-|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|Yes|[Github](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main)|
-|Is your documentation clearly available on your website or within your software?|Yes|[Documentation](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md)|
-|Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|Yes| [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md)|
+|Is your software available as a package that can be deployed without building it?| Yes |[Evidence](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md#rocket-installation)|
+|Is your software available for free?|Yes|[Evidence](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md#rocket-installation)|
+|Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|Yes|[Evidence](https://github.com/Siddartha1007/SlashV3/blob/main)|
+|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|Yes|[Github](https://github.com/Siddartha1007/SlashV3/blob/main)|
+|Is your documentation clearly available on your website or within your software?|Yes|[Documentation](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
+|Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|Yes| [Evidence](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Yes| |
 |Do you provide a comprehensive guide to all your software’s commands, functions and options?|Yes|[Documentation](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/docs)|
-|Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|Yes|Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#troubleshoot)|
+|Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|Yes|Please see [here](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|N/A||
-|Do you store your documentation under revision control with your source code?| Yes | [Link](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/code)|
-|Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?| Yes| [Link](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/README.md#whats-new-from-phase-3-to-phase-4) |
+|Do you store your documentation under revision control with your source code?| Yes | [Link](https://github.com/Siddartha1007/SlashV3/tree/main/src)|
+|Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?| Yes| [Link](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md#rocket-improvements-over-the-previous-project) |
 |Does your software describe how a user can get help with using your software?|Yes |Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#troubleshoot)|
 |Does your website and documentation describe what support, if any, you provide to users and developers?|Yes| Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#troubleshoot)|
 |Does your project have an e-mail address or forum that is solely for supporting users?|Yes|Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#troubleshoot)|
