@@ -178,25 +178,55 @@ These commands above will run and build 4 containers locally.
 
 ## :file_cabinet: Snippets
 
-<p align="center">Shows the search function for query laptops</p> 
-
-
-https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/3104485a-2e9b-4259-826d-f163e25f6d33
+<p align="center">Authentication - Signin and Signup </p> 
 
 
 
-
-
-<p align="center">Opens a link of the laptop we are interested to buy</p> 
-
-https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/b567edbc-337e-47e4-90a4-57e603b0774b
+https://github.com/Siddartha1007/SlashV3/assets/74051253/9caa7e61-403e-4391-ab34-763e099856a5
 
 
 
-<p align="center">Sorts by website</p> 
 
-https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/6db1838e-8ef3-4e27-92e6-e870b8774e91
+https://github.com/Siddartha1007/SlashV3/assets/74051253/a2e5e305-1d98-409b-ac16-e33e305973bd
 
+
+
+
+
+<p align="center">Add and remove product from wishlist</p> 
+
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/cd43fe6f-1bd0-4d61-b4b1-99612ab4eeec
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/5d433ef7-c164-401f-8119-2be00c011173
+
+
+
+
+<p align="center">Pagination, Filter, Export to csv, Meta key</p> 
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/9a2844ab-b33c-4e01-9c28-9d47717b5482
+
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/18a49ebb-0a46-4045-b7d6-638c19f8d131
+
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/f77c15a1-4ef4-4097-9c47-99552dd78523
+
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/75dd2402-2a65-410e-9ae5-fdb888b9827e
 
 
 
