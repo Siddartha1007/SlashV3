@@ -47,5 +47,10 @@ https://github.com/Siddartha1007/SlashV3/assets/78747526/ab922a63-8a84-40d7-ab3d
 
 
 
+Snapshot for Presort
+
+
+https://github.com/Siddartha1007/SlashV3/assets/78747526/d26f3fde-ba26-449e-a6b5-4f4b93b975ee
+
 
 
