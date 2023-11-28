@@ -1,4 +1,3 @@
-
 # About SlashV3's App.js file 
 The App.js file is for a React application. This file is a central component that configures the overall structure of the app, including the use of AWS Amplify for authentication, styling with styled-components, and routing with React Router. 
 
@@ -33,6 +32,9 @@ App.js is the main component for a React application that incorporates AWS Ampli
 
 Snapshot for creating an account : 
 https://github.com/Siddartha1007/SlashV3/assets/74051253/72bf6126-7aaa-4b9e-96f0-b3006af90a57
+
+Snapshot for signing in :
+https://github.com/Siddartha1007/SlashV3/assets/74051253/bd2e2a53-f859-4692-80cc-b0c68fc0d0c2
 
 
 
