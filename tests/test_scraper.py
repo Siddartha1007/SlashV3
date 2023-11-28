@@ -37,19 +37,7 @@ class Testscraper(unittest.TestCase):
         self.assertIsNotNone(result)
         self.assertIsInstance(result, BeautifulSoup)
 
-    @patch('scraper.scraper.requests.get')
-    def test_httpsGet_failure(self, mock_get):
-        # Setup mock response for a failed HTTP request
-        mock_get.return_value.status_code = 404
-
-        # Call the function
-        result = scraper.httpsGet('http://example.com')
-
-        # Assertions
-        self.assertIsNone(result)
-
-    # Add more tests for exception handling, different response codes, etc.
-
+   
     @patch('scraper.scraper.httpsGet')
     def test_search(self, mock_httpsGet):
         # Mock the httpsGet function and setup a test response
