@@ -22,9 +22,9 @@ Discover the latest deals and discounts from your favorite e-commerce websites w
 
 <br>We've simplified the way you shop online, making it faster, easier, and more powerful than ever before.<br>
 🌟 Key Features<br>
-Save Time: Slash helps you find the best deals on your desired items across multiple popular e-commerce websites.<br>
-User-Friendly APIs: We offer simple and intuitive public APIs, allowing you to filter, sort, and search through search results effortlessly.<br>
-Customizable Output: Slash provides JSON responses that you can easily customize to match your specific needs and requirements.
+**Save Time:** Slash helps you find the best deals on your desired items across multiple popular e-commerce websites.<br>
+**User-Friendly APIs:** We offer simple and intuitive public APIs, allowing you to filter, sort, and search through search results effortlessly.<br>
+**Customizable Output:** Slash provides JSON responses that you can easily customize to match your specific needs and requirements.
 
 🛒 Supported Websites<br>
 Slash currently supports the following major e-commerce websites:<br>
