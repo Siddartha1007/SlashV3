@@ -4,7 +4,7 @@
 Link to the youtube video - [https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s](https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s)
 
 ![GitHub](https://img.shields.io/badge/License-MIT-green.svg)
-![github workflow](https://github.com/SE-Fall2023-Group-41/SlashV2/actions/workflows/python-app.yml/badge.svg)
+![github workflow](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml/badge.svg)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10212035.svg)](https://doi.org/10.5281/zenodo.10212035)
 ![Github](https://img.shields.io/badge/language-python-red.svg)
 ![Github](https://img.shields.io/badge/language-node-red.svg)
