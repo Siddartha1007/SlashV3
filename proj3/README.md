@@ -74,10 +74,13 @@ Slash is open-source and ready for you to explore. Here's how to begin:
 
 ## :movie_camera: Checkout our video
 
-[https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s](https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s)
+Youtube Video - [https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s](https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s)
 
 **Animated video**
-https://github.com/Siddartha1007/SlashV3/assets/68286340/c4c9c654-d9c6-4d2b-8b70-401ad91076c9
+
+
+https://github.com/Siddartha1007/SlashV3/assets/68286340/2a4a3dbc-fbe8-487e-a50e-8457dddf51d8
+
 
 ---
 
