@@ -109,9 +109,26 @@ For Mac
 For Windows
 mvnw.cmd quarkus : dev
 ```
-5. For the frontend setup to ensure that Node 20 is  preinstalled, you will have to cd into the frontend. Once in the frontend folder, use the command npm start
+5. Install or update the latest version of the AWS CLI, For installation instructions follow the below link
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
+6. Once aws command line interface is setup, use the below command to test it.
+```
+aws --version
+```
 
+7. Alternatively, you can follow the below method. This method involves directly using the Node.js package manager (npm) to install the AWS Amplify CLI.
+```
+npm install -g @aws-amplify/cli
+```
+
+8. To synchronize your Amplify project between the cloud and your local environment, use the command amplify pull
+```
+cd frontend
+amplify pull
+```
+
+9. For the frontend setup to ensure that Node 20 is preinstalled, you will have to cd into the frontend. Once in the frontend folder, use the command npm start
 
 ```
 cd frontend
