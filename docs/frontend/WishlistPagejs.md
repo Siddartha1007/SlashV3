@@ -31,3 +31,18 @@ Styling:
 Styling is applied using inline styles and Bootstrap classes.
 
 Hence, this component provides a user-friendly interface for managing and viewing the wishlist, including the ability to remove items.
+
+Snapshot for add product into wishlist :
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/5d962f22-0153-43d3-97db-d0f41f73333c
+
+
+Snapshot for removing product from wishlist : 
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/785a0082-cbf3-44a7-90e4-404a2adbff42
+
+
+
+
