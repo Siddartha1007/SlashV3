@@ -41,6 +41,7 @@ Hence, DataDisplay.js is a React component that provides a user interface for di
 
 
 Snapshot for Pagination
+
 https://github.com/Siddartha1007/SlashV3/assets/78747526/ab922a63-8a84-40d7-ab3d-b4fb989b150b
 
 
