@@ -277,6 +277,7 @@ https://github.com/Siddartha1007/SlashV3/assets/74051253/75dd2402-2a65-410e-9ae5
 
 1. While running the project an error may arise after installing aws that it it is not installed, try to use this method that involves directly using the Node.js package manager (npm) to install the AWS Amplify CLI.
 npm install -g @aws-amplify/cli .
+2. For any futher issues or queries please reach us at seproject46@gmail.com 
 
 
 ## Team Members
