@@ -48,7 +48,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|N/A||
 |Do you store your documentation under revision control with your source code?| Yes | [Link](https://github.com/Siddartha1007/SlashV3/tree/main/src)|
 |Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?| Yes| [Link](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md#rocket-improvements-over-the-previous-project) |
-|Does your software describe how a user can get help with using your software?|Yes |Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#troubleshoot)|
+|Does your software describe how a user can get help with using your software?|Yes |Please see [here](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md#troubleshoot)|
 |Does your website and documentation describe what support, if any, you provide to users and developers?|Yes| We support through email system SEslash0041@gmail.com |
 |Does your project have an e-mail address or forum that is solely for supporting users?|Yes| SEslash0041@gmail.com |
 |Are e-mails to your support e-mail address received by more than one person?|Yes|
