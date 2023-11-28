@@ -35,6 +35,9 @@ Slash currently supports the following major e-commerce websites:<br>
 [Costco](https://www.costco.com/)  <br>
 
 
+## Scorecard:
+[Project3_Rubric](https://github.com/Siddartha1007/SlashV3/blob/main/docs/project3rubric.md)
+
 ## :rocket: Improvements over the Previous project
 
 We have added a lot of new features to slash in this phase 
