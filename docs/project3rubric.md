@@ -15,21 +15,21 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3|Eveidence in [README.md](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|Eveidence in [README.md](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |Use of version control tools|3|[Github](https://github.com/Siddartha1007/SlashV3/tree/main/)|
-|Use of style checkers |3| Used Pylint. [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/pylintrc)|
-|Use of code formatters. |3|Used Pylint. [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/pylintrc)|
-|Use of syntax checkers. |3| Used Pylint. [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/pylintrc)|
-|Use of code coverage |3| main.yml file is used. [Link](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/.github/workflows/main.yml)|
-|Other automated analysis tools|3|Github Actions [Link](https://github.com/21Tulasi/MyDollarBot-newPhase/actions) |
-|Test cases exist|3| Test cases added. Evidence is [here](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/test)|
+|Use of style checkers |3| Config files in Github showing your Config |
+|Use of code formatters. |3|[Evidence](https://github.com/Siddartha1007/SlashV3/blob/main/.github/workflows/python-app.yml)|
+|Use of syntax checkers. |3|[Evidence](https://github.com/Siddartha1007/SlashV3/blob/main/.github/workflows/python-app.yml)|
+|Use of code coverage |3| [Link](https://github.com/Siddartha1007/SlashV3/blob/main/.github/workflows/workflow.yml)|
+|Other automated analysis tools|3|Github Actions [Link](https://github.com/Siddartha1007/SlashV3/actions) |
+|Test cases exist|3| Test cases added. Evidence is [here](https://github.com/Siddartha1007/SlashV3/tree/main/tests)|
 |Test cases are routinely executed|3| please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#testing)|
-|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3| Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/CONTRIBUTING.md)|
-|Issues are discussed before they are closed|3|Each issue is assigned to an individual and is closed only after verification [evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/issues)|
-|Chat channel: exists|3|[Whatsapp](https://github.com/21Tulasi/MyDollarBot-newPhase/assets/68286340/659beadd-d210-4fd6-9658-84f6d42d9707)|
-|Test cases: a large proportion of the issues related to handling failing cases.|3|https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/test|
-|Evidence that the whole team is using the same tools: everyone can get to all tools and files|3| Entire project is developed in Python, and is being run using shell script
-|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3| Everyone of us used Git, Visual Studio Code, Python to make changes and create features|
-|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3|Everyone of us used Git, Visual Studio Code, Python to make changes and create features|
-|Evidence that the members of the team are working across multiple places in the code base|3|Worked across development of new features and testing them, alongwith enhancement of few older features 
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3| Please see [here](https://github.com/Siddartha1007/SlashV3/blob/main/CONTRIBUTING.md)|
+|Issues are discussed before they are closed|3|Each issue is assigned to an individual and is closed only after verification [evidence](https://github.com/Siddartha1007/SlashV3/issues)|
+|Chat channel: exists|3|[Whatsapp](https://github.com/Siddartha1007/SlashV3/assets/68286340/401e4e0d-abed-4850-9879-1b6f6b425978)|
+|Test cases: a large proportion of the issues related to handling failing cases.|3|https://github.com/Siddartha1007/SlashV3/tree/main/tests|
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files|3| Entire project is developed using React, Quarkus and Amplify.
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3| Everyone of us used Git, Visual Studio Code and Docker|
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3|Everyone of us used Git, Visual Studio Code and Docker|
+|Evidence that the members of the team are working across multiple places in the code base|3|Worked across development of new features and testing them, along with enhancement of few older features 
 |Short release cycles |3|[Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/releases)|
 |Does your website and documentation provide a clear, high-level overview of your software?| Yes | [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/docs)|
 |Does your website and documentation clearly describe the type of user who should use your software?| Yes | [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md)|
