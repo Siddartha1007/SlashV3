@@ -13,6 +13,7 @@ Link to the youtube video - [https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s](
 ![Github pull requests](https://img.shields.io/github/issues-pr/SE-Fall2023-Group-41/SlashV2)
 ![Github closed pull requests](https://img.shields.io/github/issues-pr-closed/SE-Fall2023-Group-41/SlashV2)
 [![Node.js CI](https://github.com/Siddartha1007/SlashV3/actions/workflows/node.js.yml/badge.svg)](https://github.com/Siddartha1007/SlashV3/actions/workflows/node.js.yml)
+[![Build](https://github.com/Siddartha1007/SlashV3/actions/workflows/quarkus.yml/badge.svg)](https://github.com/Siddartha1007/SlashV3/actions/workflows/quarkus.yml)
 [![Python Application](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml/badge.svg)](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml)
 [![codecov](https://codecov.io/gh/Siddartha1007/SlashV3/graph/badge.svg?token=EF0I1HSNYS)](https://app.codecov.io/gh/Siddartha1007/SlashV3)
 
