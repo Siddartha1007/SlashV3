@@ -34,8 +34,6 @@ Slash currently supports the following major e-commerce websites:<br>
 [Costco](https://www.costco.com/)  <br>
 
 
-
-
 ## :rocket: Improvements over the Previous project
 
 We have added a lot of new features to slash in this phase 
@@ -99,8 +97,8 @@ https://github.com/Siddartha1007/SlashV3/assets/68286340/488a33fb-7268-484d-b6e4
 1. Clone the Github repository to a desired location on your computer. You will need [git](https://git-scm.com/) to be preinstalled on your machine. Once the repository is cloned, you will then `cd` into the local repository.
 
 ```
-git clone https://github.com/SE-Fall2023-Group-41/SlashV2.git
-cd SlashV2
+git clone https://github.com/Siddartha1007/SlashV3.git
+cd SlashV3
 ```
 
 2. This project uses Python 3 for the scraper, [Quarkus](https://quarkus.io/) for the backend, and [React](https://react.dev/) framework for the frontend. You will also need to install [Docker](https://www.docker.com/get-started/).
@@ -119,6 +117,7 @@ python3 main.py
 For Windows
 python main.py
 ```
+
 4. For the backend setup ensure that JDK 17  is  preinstalled, you will have to cd into the backend. Once in the backend folder, use the command mvnw.cmd
 ```
 cd backend
@@ -127,9 +126,8 @@ For Mac
 For Windows
 mvnw.cmd quarkus : dev
 ```
+
 5. For the frontend setup to ensure that Node 20 is  preinstalled, you will have to cd into the frontend. Once in the frontend folder, use the command npm start
-
-
 
 ```
 cd frontend
@@ -138,6 +136,7 @@ npm start
 For Windows
 npm start
 ```
+
 ## Alternatively Running with Docker
 To run the application using Docker, follow these steps:
 
@@ -173,7 +172,7 @@ These commands above will run and build 4 containers locally.
 
 
 
-## :file_cabinet: Sort and Search Snapshots
+## :file_cabinet: Snippets
 
 <p align="center">Shows the search function for query laptops</p> 
 
