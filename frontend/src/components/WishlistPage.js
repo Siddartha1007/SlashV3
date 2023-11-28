@@ -6,7 +6,6 @@ import 'primereact/resources/themes/saga-purple/theme.css'
 import 'primereact/resources/primereact.min.css'
 import { Button } from 'react-bootstrap';
 import { Tooltip } from 'primereact/tooltip/tooltip.esm.js';
-import { InputSwitch } from 'primereact/inputswitch/inputswitch.esm.js';
 import { Toast } from 'primereact/toast/toast.esm.js';
 
 import { generateClient } from 'aws-amplify/api';
@@ -18,22 +17,10 @@ import * as mutations from '../graphql/mutations.js';
 function WishlistPage() {
 
     const [wishLists, setWishLists] = useState([]);
-    const [filters, setFilters] = useState(null);
     const [selectedProduct, setSelectedProduct] = useState(null);
 
     const toast = useRef(null);
 
-    const initFilters = () => {
-        setFilters({
-            name: { value: null },
-            store: { value: null },
-            price: { value: null }
-        });
-    };
-
-    const clearFilter = () => {
-        initFilters();
-    };
 
     const onRowSelect = (event) => {
         toast.current.show({ severity: 'info', summary: 'Product Selected', detail: `Name: ${event.data.name}`, life: 3000 });
@@ -70,7 +57,7 @@ function WishlistPage() {
     const removeItemFromWishlist = async (itemId) => {
         try {
           const client = generateClient();
-          const deletedItem = await client.graphql({
+          await client.graphql({
             query: mutations.deleteWishlist, 
             variables: { input: { id: itemId } } 
           });

@@ -53,7 +53,7 @@ function DataDisplay() {
             };
 
             const client = generateClient();
-            const result = await client.graphql({
+            await client.graphql({
                 query: createWishlist,
                 variables: {
                     input: wishlistItem

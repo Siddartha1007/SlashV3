@@ -44,10 +44,8 @@
 .logo {
   max-width: 600px;
   border-radius: 20%;
-  /* This creates a circular border for the image */
   border: 3px solid #00AA9B;
   margin-bottom: 20px;
-  /* You can change the color and width of the border */
 }
 
 /* src/App.css */
@@ -66,20 +64,4 @@
   margin-bottom: 10px;
   color: white;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.authenticator-container {
-  text-align: center;
-  padding: 20px;
-  margin: 20px auto;
-  max-width: 500px; /* Adjust as needed */
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.authenticator-description p {
-  color: #333;
-  font-size: 16px;
-  margin-bottom: 15px;
 }
