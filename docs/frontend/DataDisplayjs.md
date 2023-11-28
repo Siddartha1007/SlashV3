@@ -70,4 +70,13 @@ https://github.com/Siddartha1007/SlashV3/assets/78747526/72bd5795-dec7-4e2d-8cb2
 
 
 
+Snapshot for Meta Data
+
+
+https://github.com/Siddartha1007/SlashV3/assets/78747526/91d17bd8-a3e0-4378-b963-b97ce09a9bd0
+
+
+
+
+
 
