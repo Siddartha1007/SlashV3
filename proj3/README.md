@@ -216,10 +216,15 @@ https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/6db1838e-8ef3-4e
 - Future scope includes anything from a web application with a frontend or any Android or IOS application that utilizes these Web APIs at their backend. Anyone can build their own custom application on top of these web APIs.
 
 ## :golf: Future Roadmap
-- Chrome Extension using the functionalities of Slash API
-- An iOS or Android application.
-- Add a login feature to store user history to provide features like bookmarking, price drop alerts, and many more.
-- Use the stored history to provide personalized product recommendations and deal alerts based on user preferences.
+- Price Alert notifications : Implement a feature that allows users to set alerts for price drops on specific products. This could involve sending email or push notifications when a product reaches a certain price point, ensuring users don't miss out on the best deals.
+- User Reviews and Ratings : Integrate a section for user reviews and ratings for products from various e-commerce sites. This would help shoppers make more informed decisions by reading about others' experiences with the product
+- Price History Graphs: Include a feature that shows the price history of a product over time. This can help users understand pricing trends and make better decisions on when to buy.
+- Social Sharing Options: Add functionality to easily share deals or favorite products on social media platforms or through messaging apps. This could increase user engagement and app popularity.
+- Chatbot for Customer Support: Integrate a chatbot for instant customer support, helping users with queries about the app or specific deals.
+- Chrome Extension : Create a chrome extension using the functionalities of Slash API
+- Store the search history of the user and use the stored history to provide personalized product recommendations and deal alerts based on user preferences.
+  You can also find the future scope of this project in the open issue board https://github.com/Siddartha1007/SlashV3/issues?q=is%3Aopen+is%3Aissue
+  
 
 
 
