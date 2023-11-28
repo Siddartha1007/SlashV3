@@ -1,4 +1,11 @@
-# test_main.py
+"""
+Copyright (C) 2023 SE SlashV3 - All Rights Reserved
+You may use, distribute and modify this code under the
+terms of the MIT license.
+You should have received a copy of the MIT license with
+this file. If not, please write to: SEslash0041@gmail.com
+
+"""
 
 from fastapi.testclient import TestClient
 from unittest.mock import patch, MagicMock
@@ -6,14 +13,7 @@ import pytest
 import main
 import json
 
-# Setup FastAPI test client
 client = TestClient(main.app)
-
-# Test for root endpoint
-# def test_read_root():
-#     response = client.get("/")
-#     assert response.status_code == 307  # or 302, based on your redirect status
-#     assert response.headers["location"] == "/redoc"
 
 # Test for scrape endpoint
 def test_scrape():
@@ -40,8 +40,6 @@ def test_search_items_api(mock_connect):
     # Close mock cursor and connection
     mock_cursor.close.assert_called()
     mock_conn.close.assert_called()
-
-# Additional tests can be added here to cover other functionalities
 
 if __name__ == '__main__':
     pytest.main()
