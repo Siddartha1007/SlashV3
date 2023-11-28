@@ -49,12 +49,12 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Do you store your documentation under revision control with your source code?| Yes | [Link](https://github.com/Siddartha1007/SlashV3/tree/main/src)|
 |Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?| Yes| [Link](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md#rocket-improvements-over-the-previous-project) |
 |Does your software describe how a user can get help with using your software?|Yes |Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#troubleshoot)|
-|Does your website and documentation describe what support, if any, you provide to users and developers?|Yes| Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#troubleshoot)|
-|Does your project have an e-mail address or forum that is solely for supporting users?|Yes|Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#troubleshoot)|
-|Are e-mails to your support e-mail address received by more than one person?|Yes|Please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#troubleshoot)|
-|Does your project have a ticketing system to manage bug reports and feature requests?| Yes | [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/issues)|
-|Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?|Yes| [Evidence](https://github.com/21Tulasi/MyDollarBot-newPhase/issues)|
-|Is your software’s architecture and design modular?|Yes| [Github](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main)|
+|Does your website and documentation describe what support, if any, you provide to users and developers?|Yes| We support through email system SEslash0041@gmail.com |
+|Does your project have an e-mail address or forum that is solely for supporting users?|Yes| SEslash0041@gmail.com |
+|Are e-mails to your support e-mail address received by more than one person?|Yes|
+|Does your project have a ticketing system to manage bug reports and feature requests?| Yes | [Evidence](https://github.com/Siddartha1007/SlashV3/issues)|
+|Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?|Yes| [Evidence](https://github.com/Siddartha1007/SlashV3/issues)|
+|Is your software’s architecture and design modular?|Yes| [Github](https://github.com/Siddartha1007/SlashV3/tree/main)|
 |Does your software use an accepted coding standard or convention?|Yes||
 |Does your software allow data to be imported and exported using open data formats?|Yes|
 |Does your software allow communications using open communications protocols?|Yes||
@@ -66,15 +66,15 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Are releases tagged in the repository?|Yes||
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|Yes||
 |Do you back-up your repository?|Yes||
-|Do you provide publicly-available instructions for building your software from the source code?|Yes|[Link](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#installation-guide)|
+|Do you provide publicly-available instructions for building your software from the source code?|Yes|[Link](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md#rocket-installation)|
 |Can you build, or package, your software using an automated tool?|Yes||
 |Do you provide publicly-available instructions for deploying your software?|Yes||
-|Does your documentation list all third-party dependencies?|Yes|[Link](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/requirements.txt)|
+|Does your documentation list all third-party dependencies?|Yes|[Link](https://github.com/Siddartha1007/SlashV3/blob/main/src/requirements.txt)|
 |Does your documentation list the version number for all third-party dependencies?|Yes||
 |Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|N/A||
 |Can you download dependencies using a dependency management tool or package manager?|N/A||
 |Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|Yes||
-|Do you have an automated test suite for your software?|Yes|[Link](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/test)|
+|Do you have an automated test suite for your software?|Yes|[Link](https://github.com/Siddartha1007/SlashV3/tree/main/tests)|
 | Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|N/A||
 |Do you use continuous integration, automatically running tests whenever changes are made to your source code?|N/A||
 |Are your test results publicly visible?|Yes||
@@ -82,20 +82,20 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software?|No||
 |Does your website state how many projects and users are associated with your project?|Yes||
 |Do you provide success stories on your website?|Yes||
-|Do you list your important partners and collaborators on your website?|No||
+|Do you list your important partners and collaborators on your website?|Yes||
 |Do you list your project's publications on your website or link to a resource where these are available?|No||
 |Do you list third-party publications that refer to your software on your website or link to a resource where these are available?|No||
 |Can users subscribe to notifications to changes to your source code repository?|No||
 | If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?|N/A||
-|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?|Yes|[Link](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/CONTRIBUTING.md)|
-|Do you have a contributions policy?|Yes|[Link](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/CONTRIBUTING.md)|
-|Is your contributions' policy publicly available?|Yes|[Link](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/CONTRIBUTING.md)|
+|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?|Yes|[Link](https://github.com/Siddartha1007/SlashV3/blob/main/CONTRIBUTING.md)|
+|Do you have a contributions policy?|Yes|[Link](https://github.com/Siddartha1007/SlashV3/blob/main/CONTRIBUTING.md)|
+|Is your contributions' policy publicly available?|Yes|[Link](https://github.com/Siddartha1007/SlashV3/blob/main/CONTRIBUTING.md)|
 |Do contributors keep the copyright/IP of their contributions?|Yes||
 |Does your website and documentation clearly state the copyright owners of your software and documentation?|Yes||
 |Does each of your source code files include a copyright statement?|Yes||
-|Does your website and documentation clearly state the licence of your software?|No||
-|Is your software released under an open source licence?|Yes|[License](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/LICENSE)|
-|Is your software released under an OSI-approved open-source licence?|Yes|[License](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/LICENSE)|
+|Does your website and documentation clearly state the licence of your software?|Yes||
+|Is your software released under an open source licence?|Yes|[License](https://github.com/Siddartha1007/SlashV3/blob/main/LICENSE)|
+|Is your software released under an OSI-approved open-source licence?|Yes|[License](https://github.com/Siddartha1007/SlashV3/blob/main/LICENSE)|
 |Does each of your source code files include a licence header?|N/A||
 |Do you have a recommended citation for your software?|Yes||
 |Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?|No||
