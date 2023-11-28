@@ -54,3 +54,13 @@ https://github.com/Siddartha1007/SlashV3/assets/78747526/d26f3fde-ba26-449e-a6b5
 
 
 
+
+Snapshot for Filter
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/78747526/f0b6403e-da42-423d-a863-8d1c56839b08
+
+
+
+
