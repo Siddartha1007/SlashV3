@@ -63,4 +63,11 @@ https://github.com/Siddartha1007/SlashV3/assets/78747526/f0b6403e-da42-423d-a863
 
 
 
+Snapshot for export to csv
+
+
+https://github.com/Siddartha1007/SlashV3/assets/78747526/72bd5795-dec7-4e2d-8cb2-453ca78e6f03
+
+
+
 
