@@ -9,12 +9,6 @@ this file. If not, please write to: SEslash0041@gmail.com
 import unittest
 from unittest.mock import patch
 from bs4 import BeautifulSoup
-import os
-import sys
-import inspect
-currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
-parentdir = os.path.dirname(currentdir)
-sys.path.insert(0, parentdir)
 import src.scraper.scraper as scraper
 
 
