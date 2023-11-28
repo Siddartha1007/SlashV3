@@ -14,19 +14,22 @@
 [![Python Application](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml/badge.svg)](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml)
 [![codecov](https://codecov.io/gh/Siddartha1007/SlashV3/graph/badge.svg?token=EF0I1HSNYS)](https://app.codecov.io/gh/Siddartha1007/SlashV3)
 
-Do you love shopping? Are you in search of some good deals while shopping online?! Slash is here to help you look for the best deals!
+Do you love shopping? 
+Are you in search of some good deals while shopping online?! 
+
+Slash is here to help you look for the best deals!
 Discover the latest deals and discounts from your favorite e-commerce websites with Slash.
+
 <br>We've simplified the way you shop online, making it faster, easier, and more powerful than ever before.<br>
 🌟 Key Features<br>
 Save Time: Slash helps you find the best deals on your desired items across multiple popular e-commerce websites.<br>
 User-Friendly APIs: We offer simple and intuitive public APIs, allowing you to filter, sort, and search through search results effortlessly.<br>
 Customizable Output: Slash provides JSON responses that you can easily customize to match your specific needs and requirements.
+
 🛒 Supported Websites<br>
 Slash currently supports the following major e-commerce websites:<br>
 [Walmart](https://www.walmart.com/),[BestBuy](https://www.bestbuy.com/),
 [Costco](https://www.costco.com/)  <br>
-
-
 
 
 
