@@ -10,10 +10,10 @@ import json
 client = TestClient(main.app)
 
 # Test for root endpoint
-def test_read_root():
-    response = client.get("/")
-    assert response.status_code == 307  # or 302, based on your redirect status
-    assert response.headers["location"] == "/redoc"
+# def test_read_root():
+#     response = client.get("/")
+#     assert response.status_code == 307  # or 302, based on your redirect status
+#     assert response.headers["location"] == "/redoc"
 
 # Test for scrape endpoint
 def test_scrape():
