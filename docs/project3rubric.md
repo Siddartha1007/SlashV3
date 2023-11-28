@@ -10,8 +10,8 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Issues are being closed|3|[Evidence](https://github.com/Siddartha1007/SlashV3/issues?q=is%3Aissue+is%3Aclosed)|
 |DOI badge: exists|3|Eveidence in [README.md](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |Docs: doco generated, format not ugly |3| Evidence in [documentation](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/code/documentation)|
-|Docs: what: point descriptions of each class/function (in isolation)|3|Evidence is [here](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/docs)|
-|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|3|Evidence is [here](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/docs)|
+|Docs: what: point descriptions of each class/function (in isolation)|3|Evidence is [here](https://github.com/Siddartha1007/SlashV3/tree/main/docs)|
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|3|Evidence is [here](https://github.com/Siddartha1007/SlashV3/tree/main/docs)|
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3|Eveidence in [README.md](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|Eveidence in [README.md](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |Use of version control tools|3|[Github](https://github.com/Siddartha1007/SlashV3/tree/main/)|
@@ -21,7 +21,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Use of code coverage |3| [Link](https://github.com/Siddartha1007/SlashV3/blob/main/.github/workflows/workflow.yml)|
 |Other automated analysis tools|3|Github Actions [Link](https://github.com/Siddartha1007/SlashV3/actions) |
 |Test cases exist|3| Test cases added. Evidence is [here](https://github.com/Siddartha1007/SlashV3/tree/main/tests)|
-|Test cases are routinely executed|3| please see [here](https://github.com/21Tulasi/MyDollarBot-newPhase/blob/main/proj2/README.md#testing)|
+|Test cases are routinely executed|3| please see [here](https://github.com/Siddartha1007/SlashV3/tree/main/tests)|
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3| Please see [here](https://github.com/Siddartha1007/SlashV3/blob/main/CONTRIBUTING.md)|
 |Issues are discussed before they are closed|3|Each issue is assigned to an individual and is closed only after verification [evidence](https://github.com/Siddartha1007/SlashV3/issues)|
 |Chat channel: exists|3|[Whatsapp](https://github.com/Siddartha1007/SlashV3/assets/68286340/401e4e0d-abed-4850-9879-1b6f6b425978)|
@@ -43,7 +43,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Is your documentation clearly available on your website or within your software?|Yes|[Documentation](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|Yes| [Evidence](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Yes| |
-|Do you provide a comprehensive guide to all your software’s commands, functions and options?|Yes|[Documentation](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/docs)|
+|Do you provide a comprehensive guide to all your software’s commands, functions and options?|Yes|[Documentation](https://github.com/Siddartha1007/SlashV3/tree/main/docs)|
 |Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|Yes|Please see [here](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
 |If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|N/A||
 |Do you store your documentation under revision control with your source code?| Yes | [Link](https://github.com/Siddartha1007/SlashV3/tree/main/src)|
