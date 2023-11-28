@@ -130,8 +130,26 @@ For Mac
 For Windows
 mvnw.cmd quarkus : dev
 ```
+5. Install or update the latest version of the AWS CLI, For installation instructions follow the below link
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
-5. For the frontend setup to ensure that Node 20 is  preinstalled, you will have to cd into the frontend. Once in the frontend folder, use the command npm start
+6. Once aws command line interface is setup, use the below command to test it.
+```
+aws --version
+```
+
+7. Alternatively, you can follow the below method. This method involves directly using the Node.js package manager (npm) to install the AWS Amplify CLI.
+```
+npm install -g @aws-amplify/cli
+```
+
+8. To synchronize your Amplify project between the cloud and your local environment, use the command amplify pull
+```
+cd frontend
+amplify pull
+```
+
+9. For the frontend setup to ensure that Node 20 is preinstalled, you will have to cd into the frontend. Once in the frontend folder, use the command npm start
 
 ```
 cd frontend
@@ -255,7 +273,10 @@ https://github.com/Siddartha1007/SlashV3/assets/74051253/75dd2402-2a65-410e-9ae5
 - Store the search history of the user and use the stored history to provide personalized product recommendations and deal alerts based on user preferences.
   You can also find the future scope of this project in the open issue board here : https://github.com/Siddartha1007/SlashV3/issues?q=is%3Aopen+is%3Aissue
   
+## Troubleshoot:
 
+1. While running the project an error may arise after installing aws that it it is not installed, try to use this method that involves directly using the Node.js package manager (npm) to install the AWS Amplify CLI.
+npm install -g @aws-amplify/cli .
 
 
 ## Team Members
