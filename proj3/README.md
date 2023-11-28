@@ -1,6 +1,7 @@
 <p align="center">Welcome to Slash: Your Ultimate Shopping Companion!</p> 
-<p>Link to the youtube video - [https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s](https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s)<p>
 <p align="center"><img width="500" src="https://github.com/Siddartha1007/SlashV3/blob/main/assets/slash.png"></p> 
+
+Link to the youtube video - [https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s](https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s)
 
 ![GitHub](https://img.shields.io/badge/License-MIT-green.svg)
 ![github workflow](https://github.com/SE-Fall2023-Group-41/SlashV2/actions/workflows/python-app.yml/badge.svg)
