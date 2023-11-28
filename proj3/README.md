@@ -1,5 +1,5 @@
 <p align="center">Welcome to Slash: Your Ultimate Shopping Companion!</p> 
-<p align="center"><img width="500" src="./assets/slash.png"></p> 
+<p align="center"><img width="500" src="https://github.com/Siddartha1007/SlashV3/blob/main/assets/slash.png"></p> 
 
 ![GitHub](https://img.shields.io/badge/License-MIT-green.svg)
 ![github workflow](https://github.com/SE-Fall2023-Group-41/SlashV2/actions/workflows/python-app.yml/badge.svg)
