@@ -10,9 +10,9 @@
 ![Github closes issues](https://img.shields.io/github/issues-closed-raw/SE-Fall2023-Group-41/SlashV2)
 ![Github pull requests](https://img.shields.io/github/issues-pr/SE-Fall2023-Group-41/SlashV2)
 ![Github closed pull requests](https://img.shields.io/github/issues-pr-closed/SE-Fall2023-Group-41/SlashV2)
-[![Node.js CI](https://github.com/SE-Fall2023-Group-41/SlashV2/actions/workflows/node.js.yml/badge.svg)](https://github.com/SE-Fall2023-Group-41/SlashV2/actions/workflows/node.js.yml)
-[![Python Application](https://github.com/SE-Fall2023-Group-41/SlashV2/actions/workflows/python-app.yml/badge.svg)](https://github.com/SE-Fall2023-Group-41/SlashV2/actions/workflows/python-app.yml)
-[![codecov](https://codecov.io/gh/SE-Fall2023-Group-41/SlashV2/graph/badge.svg?token=EF0I1HSNYS)](https://app.codecov.io/gh/SE-Fall2023-Group-41/SlashV2)
+[![Node.js CI](https://github.com/Siddartha1007/SlashV3/actions/workflows/node.js.yml/badge.svg)](https://github.com/Siddartha1007/SlashV3/actions/workflows/node.js.yml)
+[![Python Application](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml/badge.svg)](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml)
+[![codecov](https://codecov.io/gh/Siddartha1007/SlashV3/graph/badge.svg?token=EF0I1HSNYS)](https://app.codecov.io/gh/Siddartha1007/SlashV3)
 
 Do you love shopping? Are you in search of some good deals while shopping online?! Slash is here to help you look for the best deals!
 Discover the latest deals and discounts from your favorite e-commerce websites with Slash.
