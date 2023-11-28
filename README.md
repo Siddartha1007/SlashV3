@@ -1,60 +1,67 @@
-<p align="center">Welcome to Slash: Your Ultimate Shopping Companion!</p> 
-<p align="center"><img width="500" src="./assets/slash.png"></p> 
+# SlashV3
 
-![GitHub](https://img.shields.io/github/license/Urvashi74/slash)
-![github workflow](https://github.com/SE-Fall2023-Group-41/SlashV2/actions/workflows/python-app.yml/badge.svg)
-[![DOI](https://zenodo.org/badge/431326985.svg)](https://zenodo.org/badge/latestdoi/431326985)
+<p align="center">Welcome to Slash: Your Ultimate Shopping Companion!</p> 
+<p align="center"><img width="500" src="https://github.com/Siddartha1007/SlashV3/blob/main/assets/slash.png"></p> 
+
+Link to the youtube video - [https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s](https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s)
+
+![GitHub](https://img.shields.io/badge/License-MIT-green.svg)
+![github workflow](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml/badge.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10212035.svg)](https://doi.org/10.5281/zenodo.10212035)
 ![Github](https://img.shields.io/badge/language-python-red.svg)
 ![Github](https://img.shields.io/badge/language-node-red.svg)
-![GitHub issues](https://img.shields.io/github/issues-raw/SE-Fall2023-Group-41/SlashV2)
-![Github closes issues](https://img.shields.io/github/issues-closed-raw/SE-Fall2023-Group-41/SlashV2)
+![GitHub issues](https://img.shields.io/github/issues-raw/Siddartha1007/SlashV3)
+![Github closes issues](https://img.shields.io/github/issues-closed-raw/Siddartha1007/SlashV3)
 ![Github pull requests](https://img.shields.io/github/issues-pr/SE-Fall2023-Group-41/SlashV2)
 ![Github closed pull requests](https://img.shields.io/github/issues-pr-closed/SE-Fall2023-Group-41/SlashV2)
 [![Node.js CI](https://github.com/Siddartha1007/SlashV3/actions/workflows/node.js.yml/badge.svg)](https://github.com/Siddartha1007/SlashV3/actions/workflows/node.js.yml)
+[![Build](https://github.com/Siddartha1007/SlashV3/actions/workflows/quarkus.yml/badge.svg)](https://github.com/Siddartha1007/SlashV3/actions/workflows/quarkus.yml)
 [![Python Application](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml/badge.svg)](https://github.com/Siddartha1007/SlashV3/actions/workflows/python-app.yml)
 [![codecov](https://codecov.io/gh/Siddartha1007/SlashV3/graph/badge.svg?token=EF0I1HSNYS)](https://app.codecov.io/gh/Siddartha1007/SlashV3)
 
-Do you love shopping? Are you in search of some good deals while shopping online?! Slash is here to help you look for the best deals!
+Do you love shopping? 
+Are you in search of some good deals while shopping online?! 
+
+Slash is here to help you look for the best deals!
 Discover the latest deals and discounts from your favorite e-commerce websites with Slash.
+
 <br>We've simplified the way you shop online, making it faster, easier, and more powerful than ever before.<br>
 🌟 Key Features<br>
-Save Time: Slash helps you find the best deals on your desired items across multiple popular e-commerce websites.<br>
-User-Friendly APIs: We offer simple and intuitive public APIs, allowing you to filter, sort, and search through search results effortlessly.<br>
-Customizable Output: Slash provides JSON responses that you can easily customize to match your specific needs and requirements.
+**Save Time:** Slash helps you find the best deals on your desired items across multiple popular e-commerce websites.<br>
+**User-Friendly APIs:** We offer simple and intuitive public APIs, allowing you to filter, sort, and search through search results effortlessly.<br>
+**Customizable Output:** Slash provides JSON responses that you can easily customize to match your specific needs and requirements.
+
 🛒 Supported Websites<br>
 Slash currently supports the following major e-commerce websites:<br>
 [Walmart](https://www.walmart.com/),[BestBuy](https://www.bestbuy.com/),
 [Costco](https://www.costco.com/)  <br>
 
 
-
-
-
+## Scorecard:
+[Project3_Rubric](https://github.com/Siddartha1007/SlashV3/blob/main/docs/project3rubric.md)
 
 ## :rocket: Improvements over the Previous project
 
 We have added a lot of new features to slash in this phase 
 
-1. Amplify Integration for Authentication: AWS Amplify is a development platform from AWS for building scalable web applications, offering backend services like authentication, data storage, and APIs. We implemented Amazon Amplify in the frontend to enhance user authentication. This integration provides a robust and secure mechanism for user sign-in, sign-up, and logout processes.
-- SignUp: When a new user signs up, Amplify enables a secure registration process. As part of this, after a person enters their details, a confirmation code is sent to their email. This step is crucial for verifying the authenticity of the user's email address and for stopping unauthorized account creation. The user must enter this code into the application to finish their registration, ensuring that only verified users gain access.
-- SignIn: Users can log into their accounts using their credentials, which are verified through Amplify's robust authentication system. This system ensures that user data is protected and that unauthorized access is prevented.
-- Logout: When a user chooses to log out, Amplify securely terminates their session, ensuring that their account remains secure even when they're not actively using the app. This prevents unauthorized access to their account, especially when using shared or public devices.
+**1. Amplify Integration for Authentication:** AWS Amplify is a development platform from AWS for building scalable web applications, offering backend services like authentication, data storage, and APIs. We implemented Amazon Amplify in the frontend to enhance user authentication. This integration provides a robust and secure mechanism for user sign-in, sign-up, and logout processes.
 
-2. Wishlist Feature with DynamoDB: Implemented a new 'Wishlist' feature, allowing users to add their desired items to a personalized wishlist page with a simple click. This feature uses Amazon DynamoDB for efficient data storage and retrieval. DynamoDB's high speed and scalability make the wishlist feature fast and responsive, enhancing the overall user experience. You can either add an item to wishlist or remove it from them. Furthermore, each time a user adds or removes an item from their wishlist, a popup message appears. This popup provides instant feedback on their action, confirming the successful addition or removal of the item.
+**2. Wishlist Feature with DynamoDB:** Implemented a new 'Wishlist' feature, allowing users to add their desired items to a personalized wishlist page with a simple click. This feature uses Amazon DynamoDB for efficient data storage and retrieval. DynamoDB's high speed and scalability make the wishlist feature fast and responsive, enhancing the overall user experience. You can either add an item to wishlist or remove it from them. Furthermore, each time a user adds or removes an item from their wishlist, a popup message appears. This popup provides instant feedback on their action, confirming the successful addition or removal of the item.
+  
+**3. Navigation Bar Addition:** Added a new navigation bar to the application, improving site navigation and user accessibility. This feature allows users to easily navigate through different sections of the application, enhancing the overall user experience. The navigation bar includes search access which on clicking navigates to the search page, wishlist access which on clicking navigates you to the wishlist page and a logout option ensuring users can securely exit their accounts with ease. This addition prioritizes user security and convenience, allowing for a quick and straightforward logout process.
 
-3. Navigation Bar Addition: Added a new navigation bar to the application, improving site navigation and user accessibility. This feature allows users to easily navigate through different sections of the application, enhancing the overall user experience. The navigation bar includes search access which on clicking navigates to the search page, wishlist access which on clicking navigates you to the wishlist page and a logout option ensuring users can securely exit their accounts with ease. This addition prioritizes user security and convenience, allowing for a quick and straightforward logout process.
+**4. Export to CSV Functionality:** Implemented a feature that enables users to export data tables into CSV files. This functionality is crucial for allowing users to download and save data for offline analysis or reporting purposes. Especially beneficial for users who prefer working with data in spreadsheet applications or require data for record-keeping. Also, since our app shows the best deals from many online shopping sites, this CSV export helps users compare these deals easily. They can download this information and see which site offers the best price for what they're searching for, all in one place. This makes shopping smarter and simpler for our users.
 
-4. Export to CSV Functionality: Implemented a feature that enables users to export data tables into CSV files. This functionality is crucial for allowing users to download and save data for offline analysis or reporting purposes. Especially beneficial for users who prefer working with data in spreadsheet applications or require data for record-keeping. Also, since our app shows the best deals from many online shopping sites, this CSV export helps users compare these deals easily. They can download this information and see which site offers the best price for what they're searching for, all in one place. This makes shopping smarter and simpler for our users.  
+**5. Enhanced Search Filters:** Upgraded the search feature with enhanced filters. This improvement allows users to refine their searches more precisely, using multiple criteria such as product name, category, website, and price. The enhanced filtering feature makes the search process more efficient, helping users find what they're looking for quickly and easily.
 
-5. Enhanced Search Filters: Upgraded the search feature with enhanced filters. This improvement allows users to refine their searches more precisely, using multiple criteria such as product name, category, website, and price. The enhanced filtering feature makes the search process more efficient, helping users find what they're looking for quickly and easily.
+**6. Column-Specific Filtering with Clear Filter button:** Implemented filter options for each data column, including product name, category, website, and price. Additionally, a 'Clear Filter' button has been added, allowing users to easily reset all applied filters. This feature provides users with granular control over the data they view, making the filtering process more flexible and user-friendly.
 
-6. Column-Specific Filtering with Clear Filter button: Implemented filter options for each data column, including product name, category, website, and price. Additionally, a 'Clear Filter' button has been added, allowing users to easily reset all applied filters. This feature provides users with granular control over the data they view, making the filtering process more flexible and user-friendly. 
+**7. Row Selection and Deselection with Popup Messages:** We added a new feature where users can choose or unchoose single rows in lists of data. When they do this, a message pops up to tell them what they've done. This makes the app more fun to use because it reacts to what the user does. The messages that pop up are there to make sure users know exactly what they're changing or choosing. This helps them focus on the information they're most interested in.
 
-7. Row Selection and Deselection with Popup Messages: We added a new feature where users can choose or unchoose single rows in lists of data. When they do this, a message pops up to tell them what they've done. This makes the app more fun to use because it reacts to what the user does. The messages that pop up are there to make sure users know exactly what they're changing or choosing. This helps them focus on the information they're most interested in.
-
-8. Enhanced Code Coverage: Significantly improved the code coverage of the application, increasing it from 36% to 96%. 
+**8. Enhanced Code Coverage:** Significantly improved the code coverage of the application, increasing it from 36% to 96%.
 
 ---
+
 Get ready to supercharge your shopping experience with Slash!
 🚀 Getting Started
 Slash is open-source and ready for you to explore. Here's how to begin:
@@ -81,8 +88,12 @@ Slash is open-source and ready for you to explore. Here's how to begin:
 ## :movie_camera: Checkout our video
 
 
-https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/02359bf0-1d6b-43cd-93bb-f331589b9aa3
+Youtube Video - [https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s](https://www.youtube.com/watch?v=n-MlC37PRtY&t=18s)
 
+**Animated video**
+
+
+https://github.com/Siddartha1007/SlashV3/assets/68286340/488a33fb-7268-484d-b6e4-b6a2ec5dc023
 
 
 ---
@@ -92,8 +103,8 @@ https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/02359bf0-1d6b-43
 1. Clone the Github repository to a desired location on your computer. You will need [git](https://git-scm.com/) to be preinstalled on your machine. Once the repository is cloned, you will then `cd` into the local repository.
 
 ```
-git clone https://github.com/SE-Fall2023-Group-41/SlashV2.git
-cd SlashV2
+git clone https://github.com/Siddartha1007/SlashV3.git
+cd SlashV3
 ```
 
 2. This project uses Python 3 for the scraper, [Quarkus](https://quarkus.io/) for the backend, and [React](https://react.dev/) framework for the frontend. You will also need to install [Docker](https://www.docker.com/get-started/).
@@ -112,6 +123,7 @@ python3 main.py
 For Windows
 python main.py
 ```
+
 4. For the backend setup ensure that JDK 17  is  preinstalled, you will have to cd into the backend. Once in the backend folder, use the command mvnw.cmd
 ```
 cd backend
@@ -148,6 +160,7 @@ npm start
 For Windows
 npm start
 ```
+
 ## Alternatively Running with Docker
 To run the application using Docker, follow these steps:
 
@@ -172,26 +185,6 @@ To run the application using Docker, follow these steps:
    
 These commands above will run and build 4 containers locally.
 <br>
-## Some handy links:
-<br>
-Here are some handy links to access different aspects of the application:
-
-[Swagger UI for Backend](http://slash-backend-ifjolla-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/q/swagger-ui/): Explore the API using the Swagger UI, where you can experiment and interact with the backend. Below is a snapshot 
-<p align="center"><img width="500" src="./assets/se_ss1.png"></p> 
-
-[OpenAPI Specification](http://slash-backend-ifjolla-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/q/openapi ): Access the OpenAPI specification for a detailed description of the API endpoints.
-
-
-[Slash Web Application](http://slash-frontend-ifjolla-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/): Visit the Slash web application by clicking on this link. Below is a snapshot 
-<p align="center"><img width="500" src="./assets/se_ss2.png"></p> 
-
-[Scraper Exposed URL](http://slash-scraper-ifjolla-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/): Access the scraper's exposed URL.
-<p align="center"><img width="500" src="./assets/se_ss3.png"></p> 
-
-[PublicDockerImages](https://quay.io/user/ifjollancsu/): Find our public repositories on Quay.io, where you can conveniently use Docker images without the need to build them from scratch.
-<p align="center"><img width="500" src="./assets/se_ss4.png"></p> 
-Feel free to explore these links to access different components of the application and make the most of its features.
-
 
 ## :computer: Technology Used
 
@@ -199,30 +192,61 @@ Feel free to explore these links to access different components of the applicati
 - Docker : https://www.docker.com
 - Quarkus: https://quarkus.io/
 - Openshifts:  https://docs.openshift.com/
+- Amazon AWS: https://docs.aws.amazon.com/amplify/
 
 
 
-## :file_cabinet: Sort and Search Snapshots
+## :file_cabinet: Snippets
 
-<p align="center">Shows the search function for query laptops</p> 
-
-
-https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/3104485a-2e9b-4259-826d-f163e25f6d33
+<p align="center">Authentication - Signin and Signup </p> 
 
 
 
-
-
-<p align="center">Opens a link of the laptop we are interested to buy</p> 
-
-https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/b567edbc-337e-47e4-90a4-57e603b0774b
+https://github.com/Siddartha1007/SlashV3/assets/74051253/9caa7e61-403e-4391-ab34-763e099856a5
 
 
 
-<p align="center">Sorts by website</p> 
 
-https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/6db1838e-8ef3-4e27-92e6-e870b8774e91
+https://github.com/Siddartha1007/SlashV3/assets/74051253/a2e5e305-1d98-409b-ac16-e33e305973bd
 
+
+
+
+
+<p align="center">Add and remove product from wishlist</p> 
+
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/cd43fe6f-1bd0-4d61-b4b1-99612ab4eeec
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/5d433ef7-c164-401f-8119-2be00c011173
+
+
+
+
+<p align="center">Pagination, Filter, Export to csv, Meta key</p> 
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/9a2844ab-b33c-4e01-9c28-9d47717b5482
+
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/18a49ebb-0a46-4045-b7d6-638c19f8d131
+
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/f77c15a1-4ef4-4097-9c47-99552dd78523
+
+
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/75dd2402-2a65-410e-9ae5-fdb888b9827e
 
 
 
@@ -242,22 +266,30 @@ https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/6db1838e-8ef3-4e
 - Future scope includes anything from a web application with a frontend or any Android or IOS application that utilizes these Web APIs at their backend. Anyone can build their own custom application on top of these web APIs.
 
 ## :golf: Future Roadmap
-- Chrome Extension using the functionalities of Slash API
-- An iOS or Android application.
-- Add a login feature to store user history to provide features like bookmarking, price drop alerts, and many more.
-- Use the stored history to provide personalized product recommendations and deal alerts based on user preferences.
+- Price Alert notifications : Implement a feature that allows users to set alerts for price drops on specific products. This could involve sending email or push notifications when a product reaches a certain price point, ensuring users don't miss out on the best deals.
+- User Reviews and Ratings : Integrate a section for user reviews and ratings for products from various e-commerce sites. This would help shoppers make more informed decisions by reading about others' experiences with the product
+- Price History Graphs: Include a feature that shows the price history of a product over time. This can help users understand pricing trends and make better decisions on when to buy.
+- Social Sharing Options: Add functionality to easily share deals or favorite products on social media platforms or through messaging apps. This could increase user engagement and app popularity.
+- Chatbot for Customer Support: Integrate a chatbot for instant customer support, helping users with queries about the app or specific deals.
+- Chrome Extension : Create a chrome extension using the functionalities of Slash API
+- Store the search history of the user and use the stored history to provide personalized product recommendations and deal alerts based on user preferences.
+  You can also find the future scope of this project in the open issue board here : https://github.com/Siddartha1007/SlashV3/issues?q=is%3Aopen+is%3Aissue
+  
+## Troubleshoot:
 
+1. While running the project an error may arise after installing aws that it it is not installed, try to use this method that involves directly using the Node.js package manager (npm) to install the AWS Amplify CLI.
+npm install -g @aws-amplify/cli .
+2. For any futher issues or queries please reach us at seproject46@gmail.com 
 
 
 ## Team Members
 
-- [Ingmar Fjolla](https://github.com/ingmarfjolla)
-- [Rishab Muzhangathu](https://github.com/R3Rex31)
-- [Rishabh Bhargava](https://github.com/Bullet1403)
-- [Russel Lobo](https://github.com/russel0014)
+- [Sree Tulasi](https://github.com/21Tulasi)
+- [Siddartha Goruganti](https://github.com/Siddartha1007)
+- [Yogitha Seela](https://github.com/Yogitha193)
+- [Deepika Patibandla](https://github.com/Deepika-2306)
 
 ## :email: Support
 
-For any queries and help, please reach out to us at: SEslash0041@gmail.com
+In case of any extended support or quieries please reach us at seproject46@gmail.com
 Let Slash be your shopping sidekick and embark on a savings adventure like never before!
-
