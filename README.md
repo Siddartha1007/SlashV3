@@ -1,5 +1,5 @@
 # SlashV3
-SlashV2
+
 <p align="center">Welcome to Slash: Your Ultimate Shopping Companion!</p> 
 <p align="center"><img width="500" src="https://github.com/Siddartha1007/SlashV3/blob/main/assets/slash.png"></p> 
 
