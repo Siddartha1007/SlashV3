@@ -38,3 +38,12 @@ Conditional Rendering:
 The component conditionally renders the DataTable if data is available; otherwise, it displays a message indicating that the item couldn't be found for comparison.
 
 Hence, DataDisplay.js is a React component that provides a user interface for displaying and comparing product data, allowing users to add selected products to their wishlist and navigate back to the search page. The component leverages the PrimeReact library for DataTable functionality and AWS Amplify for managing user wishlists.
+
+
+Snapshot for Pagination
+https://github.com/Siddartha1007/SlashV3/assets/78747526/ab922a63-8a84-40d7-ab3d-b4fb989b150b
+
+
+
+
+
