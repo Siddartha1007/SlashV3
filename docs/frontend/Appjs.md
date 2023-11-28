@@ -29,3 +29,9 @@ Export Statement:
 Exports the App component as the default export from this module.
 
 App.js is the main component for a React application that incorporates AWS Amplify for authentication, styled-components for styling, and React Router for routing. The Authenticator component handles user authentication, and custom components (Header and Footer) are used for styling within the app. The application is styled with a linear gradient background, and the SiteNav component provides navigation.
+
+
+https://github.com/Siddartha1007/SlashV3/assets/74051253/72bf6126-7aaa-4b9e-96f0-b3006af90a57
+
+
+
