@@ -223,7 +223,7 @@ https://github.com/SE-Fall2023-Group-41/SlashV2/assets/62643830/6db1838e-8ef3-4e
 - Chatbot for Customer Support: Integrate a chatbot for instant customer support, helping users with queries about the app or specific deals.
 - Chrome Extension : Create a chrome extension using the functionalities of Slash API
 - Store the search history of the user and use the stored history to provide personalized product recommendations and deal alerts based on user preferences.
-  You can also find the future scope of this project in the open issue board https://github.com/Siddartha1007/SlashV3/issues?q=is%3Aopen+is%3Aissue
+  You can also find the future scope of this project in the open issue board here : https://github.com/Siddartha1007/SlashV3/issues?q=is%3Aopen+is%3Aissue
   
 
 
