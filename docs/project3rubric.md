@@ -9,7 +9,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Issues reports: there are **many**|3|There are 13 issues in total. [Link](https://github.com/Siddartha1007/SlashV3/issues)|
 |Issues are being closed|3|[Evidence](https://github.com/Siddartha1007/SlashV3/issues?q=is%3Aissue+is%3Aclosed)|
 |DOI badge: exists|3|Eveidence in [README.md](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
-|Docs: doco generated, format not ugly |3| Evidence in [documentation](https://github.com/21Tulasi/MyDollarBot-newPhase/tree/main/code/documentation)|
+|Docs: doco generated, format not ugly |3| Evidence in [documentation](https://github.com/Siddartha1007/SlashV3/tree/main/src/Doc)|
 |Docs: what: point descriptions of each class/function (in isolation)|3|Evidence is [here](https://github.com/Siddartha1007/SlashV3/tree/main/docs)|
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|3|Evidence is [here](https://github.com/Siddartha1007/SlashV3/tree/main/docs)|
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3|Eveidence in [README.md](https://github.com/Siddartha1007/SlashV3/blob/main/proj3/README.md)|
